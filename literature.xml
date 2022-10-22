@@ -1,0 +1,161 @@
+<literature>
+    <type>
+        <name>Росийская литература</name>
+        <directions>
+            <era>
+                <name>Классицизм</name>
+                <authors>
+                    <author>
+                        <name>Михаил Ломоносов</name>
+                        <books>
+                            <book>
+                                <name>Лишь только дневной шум замолк…</name>
+                                <year>1747</year>
+                            </book>
+                            <book>
+                                <name>Ночною темнотою покрылись небеса…</name>
+                                <year>1747</year>
+                            </book>
+                        </books>
+                    </author>
+                    <author>
+                        <name>Гавриил Державин</name>
+                        <books>
+                            <book>
+                                <name>Царь-девица</name>
+                                <year>1812</year>
+                            </book>
+                        </books>
+                    </author>
+                </authors>
+            </era>
+            <era>
+                <name>Сентиментализм</name>
+                <authors>
+                    <author>
+                        <name>Николай Карамзин</name>
+                        <books>
+                            <book>
+                                <name>Осень</name>
+                                <year>1789</year>
+                            </book>
+                        </books>
+                    </author>
+                </authors>
+            </era>
+            <era>
+               <name>Романтизм</name>
+                <authors>
+                    <author>
+                        <name>Виктор Гюго</name>
+                        <books>
+                            <book>
+                                <name>Труженники моря</name>
+                                <year>1886</year>
+                            </book>
+                        </books>
+                    </author>
+                </authors>
+           </era>
+        </directions>
+    </type>
+   <type>
+       <name>Зарубежная литература</name>
+       <directions>
+           <era>
+               <name>Классицизм</name>
+               <authors>
+                   <author>
+                       <name>Пьер Корнель</name>
+                       <books>
+                           <book>
+                               <name>Алидор</name>
+                               <year>1627</year>
+                           </book>
+                           <book>
+                               <name>Галерея Дворца</name>
+                               <year>1633</year>
+                           </book>
+                       </books>
+                   </author>
+                   <author>
+                       <name>Жан-Батист Мольер</name>
+                       <books>
+                           <book>
+                               <name>Школа жен</name>
+                               <year>1662</year>
+                           </book>
+                           <book>
+                               <name>Дон Жуан</name>
+                               <year>1665</year>
+                           </book>
+                       </books>
+                   </author>
+               </authors>
+           </era>
+           <era>
+               <name>Сентиментализм</name>
+               <authors>
+                   <author>
+                       <name>Самюэл Ричардсон</name>
+                       <books>
+                           <book>
+                               <name>Памела, или награждённая добродетель</name>
+                               <year>1740</year>
+                           </book>
+                           <book>
+                               <name>История сэра Чарльза Грандисона</name>
+                               <year>1753</year>
+                           </book>
+                       </books>
+                   </author>
+                   <author>
+                       <name>Жан-Жак Руссо</name>
+                       <books>
+                           <book>
+                               <name>Нарцисс</name>
+                               <year>1733</year>
+                           </book>
+                           <book>
+                               <name>Военнопленные</name>
+                               <year>1743</year>
+                           </book>
+                       </books>
+                   </author>
+               </authors>
+
+           </era>
+           <era>
+               <name>Романтизм</name>
+               <authors>
+                   <author>
+                       <name>Джордж Байрон</name>
+                       <books>
+                           <book>
+                               <name>Корсар</name>
+                               <year>1814</year>
+                           </book>
+                           <book>
+                               <name>Тьма</name>
+                               <year>1816</year>
+                           </book>
+                       </books>
+                   </author>
+                   <author>
+                       <name>Эдгар Аллан По</name>
+                       <books>
+                           <book>
+                               <name>Тишина</name>
+                               <year>1832</year>
+                           </book>
+                           <book>
+                               <name>Стук сердца</name>
+                               <year>1873</year>
+                           </book>
+                       </books>
+                   </author>
+               </authors>
+           </era>
+       </directions>
+   </type>
+</literature>
