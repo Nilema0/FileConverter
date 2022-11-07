@@ -22,4 +22,12 @@ public class typesJSON {
     public ArrayList<authorJSON> getAuthors() {
         return authors;
     }
+
+    public int length(){
+        return authors.size();
+    }
+
+    public authorJSON get(int index){
+        return authors.get(index);
+    }
 }

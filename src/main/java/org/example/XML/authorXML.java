@@ -17,6 +17,10 @@ public class authorXML {
         return books.size();
     }
 
+    public ArrayList<bookXML> getBooks() {
+        return books;
+    }
+
     public bookXML get(int index){
         return books.get(index);
     }

@@ -22,4 +22,11 @@ public class authorJSON {
     public ArrayList<bookJSON> getBooks() {
         return books;
     }
+    public bookJSON get (int index){
+        return books.get(index);
+    }
+
+    public int length(){
+        return books.size();
+    }
 }

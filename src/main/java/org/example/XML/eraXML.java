@@ -17,6 +17,10 @@ public class eraXML {
         return authors.size();
     }
 
+    public ArrayList<authorXML> getAuthors() {
+        return authors;
+    }
+
     public authorXML get(int index){
         return authors.get(index);
     }

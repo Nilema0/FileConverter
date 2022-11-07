@@ -12,6 +12,7 @@ public class directionsJSON {
         this.types = directions;
     }
 
+
     public void addDirection(String name, ArrayList<authorJSON> authors){
         types.add(new typesJSON(name, authors));
     }
@@ -26,5 +27,13 @@ public class directionsJSON {
 
     public ArrayList<typesJSON> getTypes() {
         return types;
+    }
+
+    public int length(){
+        return types.size();
+    }
+
+    public typesJSON get(int index){
+        return types.get(index);
     }
 }

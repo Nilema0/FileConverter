@@ -11,6 +11,14 @@ public class typeXML {
         this.eras = eras;
     }
 
+    public void addEra(String eraName, ArrayList<authorXML> authors){
+        eras.add(new eraXML(eraName,authors));
+    }
+
+    public ArrayList<eraXML> getEras() {
+        return eras;
+    }
+
     public int length(){
         return eras.size();
     }

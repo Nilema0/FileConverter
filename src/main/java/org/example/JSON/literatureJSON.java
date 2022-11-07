@@ -5,7 +5,6 @@ import java.util.ArrayList;
 
 public class literatureJSON {
     private ArrayList<directionsJSON> directions;
-
     public literatureJSON(){
         this.directions = new ArrayList<directionsJSON>();
     }
